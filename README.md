@@ -1,0 +1,2 @@
+- I have used the data from April 3rd, 2025, for all the provided stocks FROG, SOUN, and CRWV to perform the analysis.
+- A ZIP file has been uploaded containing the detailed solution to the problem along with the datasets used in the analysis.
